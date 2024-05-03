@@ -4,9 +4,9 @@ Welcome to my Stopwatch Project, a visually stunning timekeeping application tha
 
 ## Technologies Used
 
-- **HTML**: For structuring the web application.
-- **CSS**: For styling the application, including a custom background and button designs.
-- **JavaScript**: Used for the core stopwatch functionality.
+- **HTML**: For structure.
+- **CSS**: For style, a background image and button designs.
+- **JavaScript**: For core stopwatch functionality.
 
 ## Setup
 
