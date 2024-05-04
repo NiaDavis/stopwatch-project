@@ -1,6 +1,6 @@
 # Stopwatch Project
 
-Welcome to my Stopwatch Project, a visually stunning timekeeping application that combines functionality with an artistic design.
+Welcome to my Stopwatch Project, a visually appealing timekeeping website.
 
 ## Technologies Used
 
